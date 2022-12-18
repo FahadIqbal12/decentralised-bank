@@ -1,4 +1,4 @@
-# decentralised-bank
+# Decentralised-Bank
 This project is for web3 enthusiast, developer and learner.
 It uses Goerli Test Network. A great project to start learning web3.
 
