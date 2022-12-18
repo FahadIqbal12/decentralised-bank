@@ -1,4 +1,6 @@
 # decentralised-bank
+This project is for web3 enthusiast, developer and learner.
+It uses Goerli Test Network. A great project to start learning web3.
 
 Live project : https://decentralised-bank.netlify.app/
 
